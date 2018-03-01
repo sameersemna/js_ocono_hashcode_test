@@ -5,7 +5,10 @@ Google Hashcode
 Problem statement (Test round)
 =========
 
-
+Prerequisites
+```bash
+brew install node
+```
 
 Execute
 ```bash
